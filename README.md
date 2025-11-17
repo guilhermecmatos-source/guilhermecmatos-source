@@ -1,8 +1,7 @@
 ### **Hey there** 👋  
 Sou **Guilherme**, **Técnico em Informática**, apaixonado por tecnologia e por tudo que envolve sistemas, suporte, hardware e soluções práticas para o dia a dia em TI.
 
-Gosto de explorar diferentes áreas da computação, aprender novas ferramentas e transformar conhecimento em projetos e ideias que fazem a diferença.  
-�
+Gosto de explorar diferentes áreas da computação, aprender novas ferramentas e transformar conhecimento em projetos e ideias que fazem a diferença.
 
 <hr/>
 
