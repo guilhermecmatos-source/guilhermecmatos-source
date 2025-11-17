@@ -9,7 +9,7 @@ Também atuo como **Instrutor de TI**, ajudando outras pessoas a crescerem na á
 🔧 **Tecnologias & Ferramentas**
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,py,ubuntu,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ubuntu,git)](https://skillicons.dev)
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERME-MT&layout=compact)](https://github.com/GUILHERME-MT/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GUILHERME-MT&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
