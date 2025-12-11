@@ -1,7 +1,9 @@
 ### **Hey there** 👋  
-Sou **Guilherme**, **Técnico em Informática**, apaixonado por tecnologia e por tudo que envolve sistemas, suporte, hardware e soluções práticas para o dia a dia em TI.
+Sou **Guilherme**, Técnico em Informática apaixonado por tecnologia e soluções práticas em TI. Tenho experiência em montagem, instalação e manutenção de microcomputadores, além de configuração e manutenção de redes e roteadores. Possuo domínio do Pacote Office e conhecimento aprofundado sobre a estrutura e funcionamento de computadores.
 
-Gosto de explorar diferentes áreas da computação, aprender novas ferramentas e transformar conhecimento em projetos e ideias que fazem a diferença.
+Minha formação inclui lógica de programação, fundamentos da Indústria 4.0, introdução à inteligência artificial, redes de computadores e infraestrutura. Também tenho conhecimentos em qualidade, produtividade, sustentabilidade e saúde e segurança no trabalho.
+
+Tenho experiência na criação e interpretação de dashboards para análise de dados, contribuindo para decisões estratégicas. Estou sempre em busca de aprimorar minhas habilidades para oferecer soluções tecnológicas eficazes e alinhadas às necessidades organizacionais.
 
 <hr/>
 
