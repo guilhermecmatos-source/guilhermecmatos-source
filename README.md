@@ -7,6 +7,15 @@ Tenho experiência na criação e interpretação de dashboards para análise de
 
 <hr/>
 
+### 🧠 Linguagens + Perfil
+| ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=guilhermecmatos-source&layout=compact&theme=tokyonight&hide_border=true) | ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermecmatos-source&theme=tokyonight) |
+|---|---|
+
+### 🔥 Stats + 🗂 Outro Card
+| ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=guilhermecmatos-source&show_icons=true&theme=tokyonight&hide_border=true) | ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermecmatos-source&theme=tokyonight) |
+|---|---|
+
+
 🔧 **Tecnologias & Ferramentas**
 <p></p>
 
