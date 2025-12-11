@@ -15,6 +15,7 @@ Tenho experiência na criação e interpretação de dashboards para análise de
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERME-MT&layout=compact)](https://github.com/GUILHERME-MT/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GUILHERME-MT&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
-### ⭐ **Acompanhe meu trabalho nas redes:**
+### ⭐ **Me siga nas redes sociais:**
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/gui_matos18/)](https://www.instagram.com/gui_matos18/)
+.[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-8a2be2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-t%C3%BAlio-pereira-da-silva-31b740389/)](https://www.linkedin.com/in/guilherme-matos-124582399)
