@@ -37,10 +37,11 @@ Sou um **Desenvolvedor Full Stack** apaixonado por transformar ideias em código
 
 ---
 
+
 ### 📫 Vamos nos conectar?
 
 Se quiser trocar uma ideia sobre desenvolvimento, design ou apenas bater um papo sobre tecnologia, sinta-se à vontade para me chamar!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_O_LINK_DO_SEU_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: guilhermematoshotmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-124582399?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.c.matos.ofc@gmail.com)
 
